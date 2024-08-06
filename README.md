@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikram Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding"width="400"src="(https://github.com/user-attachments/assets/a7bc9285-705f-47e5-886a-44643da1a321)
-">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram1r&label=Profile%20views&color=0e75b6&style=flat" alt="vikram1r" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram1r" alt="vikram1r" /></a> </p>
