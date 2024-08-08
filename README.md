@@ -3,17 +3,33 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram1r&label=Profile%20views&color=0e75b6&style=flat" alt="vikram1r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram1r" alt="vikram1r" /></a> </p>
+<img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/68998355/110694804-1ac26580-820f-11eb-8bcf-2b93f48bce92.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB, React.js, Full Stack Development**
+- 🌱 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 **𝐌𝐨𝐧𝐠𝐨𝐃𝐁, 𝐑𝐞𝐚𝐜𝐭.𝐣𝐬, 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭**
 
-- 💬 Ask me about **bug 🐛**
+- 💼 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 𝐑𝐞𝐚𝐝𝐲 𝐭𝐨 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐑𝐞𝐚𝐥𝐦𝐬
 
-- 📫 How to reach me **vikramsingh9010r@gmail.com**
+- ☕ 𝐈 𝐛𝐞𝐥𝐢𝐞𝐯𝐞 𝐚 𝐩𝐞𝐫𝐟𝐞𝐜𝐭 𝐜𝐮𝐩 𝐨𝐟 𝐜𝐨𝐟𝐟𝐞𝐞 𝐜𝐚𝐧 𝐛𝐞 𝐭𝐡𝐞 𝐮𝐥𝐭𝐢𝐦𝐚𝐭𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐚𝐧𝐲 𝐬𝐭𝐫𝐞𝐬𝐬.
+  
+- ⚙️ 𝐖𝐡𝐞𝐧 𝐈'𝐦 𝐧𝐨𝐭 𝐜𝐨𝐝𝐢𝐧𝐠, 𝐲𝐨𝐮'𝐥𝐥 𝐟𝐢𝐧𝐝 𝐦𝐞 𝐞𝐢𝐭𝐡𝐞𝐫 𝐬𝐥𝐞𝐞𝐩𝐢𝐧𝐠 😴 𝐨𝐫 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐦𝐲 𝐥𝐚𝐩𝐭𝐨𝐩 👨‍💻
+  
+- 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 **𝐛𝐮𝐠 🐛**
 
-- ⚡ Fun fact **I love Bugsss**
+- 📫 𝙃𝙤𝙬 𝙩𝙤 𝙧𝙚𝙖𝙘𝙝 𝙢𝙚 **vikramsingh9010r@gmail.com**
+
+- ⚡ 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭 **𝐈 𝐥𝐨𝐯𝐞 𝐁𝐮𝐠𝐬𝐬𝐬**
+
+
+Tech Stack 🧰
+													
+If you're still reading, why not follow me ?? 👨‍💻 Let's Connect and create something amazing! ✨!! 
+<img align="right to center" alt="partner"  width ="90" src="https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif">
+  
+
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram1r" alt="vikram1r" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
