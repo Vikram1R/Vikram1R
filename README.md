@@ -15,20 +15,19 @@
   
 - ⚙️ 𝐖𝐡𝐞𝐧 𝐈'𝐦 𝐧𝐨𝐭 𝐜𝐨𝐝𝐢𝐧𝐠, 𝐲𝐨𝐮'𝐥𝐥 𝐟𝐢𝐧𝐝 𝐦𝐞 𝐞𝐢𝐭𝐡𝐞𝐫 𝐬𝐥𝐞𝐞𝐩𝐢𝐧𝐠 😴 𝐨𝐫 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐦𝐲 𝐥𝐚𝐩𝐭𝐨𝐩 👨‍💻
   
-- 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 **𝐛𝐮𝐠 🐛**
+- 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 **𝐛𝐮𝐠𝐬𝐬 🐛**
 
 - 📫 𝙃𝙤𝙬 𝙩𝙤 𝙧𝙚𝙖𝙘𝙝 𝙢𝙚 **vikramsingh9010r@gmail.com**
 
 - ⚡ 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭 **𝐈 𝐥𝐨𝐯𝐞 𝐁𝐮𝐠𝐬𝐬𝐬**
 
 
-Tech Stack 🧰
 													
-If you're still reading, why not follow me ?? 👨‍💻 Let's Connect and create something amazing! ✨!! 
-<img align="right to center" alt="partner"  width ="90" src="https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif">
+𝙄𝙛 𝙮𝙤𝙪'𝙧𝙚 𝙨𝙩𝙞𝙡𝙡 𝙧𝙚𝙖𝙙𝙞𝙣𝙜, 𝙬𝙝𝙮 𝙣𝙤𝙩 𝙛𝙤𝙡𝙡𝙤𝙬 𝙢𝙚 ?? 👨‍💻 𝙇𝙚𝙩'𝙨 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙖𝙣𝙙 𝙘𝙧𝙚𝙖𝙩𝙚 𝙨𝙤𝙢𝙚𝙩𝙝𝙞𝙣𝙜 𝙖𝙢𝙖𝙯𝙞𝙣𝙜! ✨!!<br>
+<img align="center" alt="partner"  width ="90" src="https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif">
   
 
-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram1r" alt="vikram1r" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram1r" alt="vikram1r" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
