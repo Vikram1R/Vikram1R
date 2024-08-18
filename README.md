@@ -27,8 +27,8 @@
 
 													
 𝙄𝙛 𝙮𝙤𝙪'𝙧𝙚 𝙨𝙩𝙞𝙡𝙡 𝙧𝙚𝙖𝙙𝙞𝙣𝙜, 𝙬𝙝𝙮 𝙣𝙤𝙩 𝙛𝙤𝙡𝙡𝙤𝙬 𝙢𝙚 ?? 👨‍💻 𝙇𝙚𝙩'𝙨 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙖𝙣𝙙 𝙘𝙧𝙚𝙖𝙩𝙚 𝙨𝙤𝙢𝙚𝙩𝙝𝙞𝙣𝙜 𝙖𝙢𝙖𝙯𝙞𝙣𝙜! ✨!!<br>
-                                                     <img align="center" alt="partner"  width ="90" src="https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif">
-  
+
+<img style="display: block; margin: 0 auto;" alt="partner"  width ="90" src="https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram1r" alt="vikram1r" /></a> </p>
 
