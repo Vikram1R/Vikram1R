@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/68998355/110694804-1ac26580-820f-11eb-8bcf-2b93f48bce92.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
-🌱 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 **𝐌𝐨𝐧𝐠𝐨𝐃𝐁, 𝐑𝐞𝐚𝐜𝐭.𝐣𝐬, 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝙎𝙬𝙞𝙛𝙩**
+🌱 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 "𝐌𝐨𝐧𝐠𝐨𝐃𝐁, 𝐑𝐞𝐚𝐜𝐭.𝐣𝐬, 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝙎𝙬𝙞𝙛𝙩"
 
  💼 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 𝐑𝐞𝐚𝐝𝐲 𝐭𝐨 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐑𝐞𝐚𝐥𝐦𝐬
 
