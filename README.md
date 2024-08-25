@@ -6,7 +6,7 @@
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram1r&label=Profile%20views&color=0e75b6&style=flat" alt="vikram1r" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram1r&label=Profile+views&color=blueviolet&style=plastic" alt="vikram1r" /> </p>
 
 <img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/68998355/110694804-1ac26580-820f-11eb-8bcf-2b93f48bce92.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
